@@ -1,0 +1,4 @@
+a= input("Büyük Sayi Giriniz: ")
+b =input("Kücük Sayi Giriniz: ")
+islem= int(a)// int(b)
+print(islem)
